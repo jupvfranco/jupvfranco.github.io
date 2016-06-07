@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/SePi_1.0.0.201606071716.jar" id="SePi" version="1.0.0.201606071716">
+      <category name="SePi"/>
+   </feature>
+   <category-def name="SePi" label="SePi"/>
+</site>
